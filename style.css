@@ -135,6 +135,10 @@ body {
   .hero p {
     font-size: 1.2rem;
   }
+
+  .dna-strand {
+    height: 100% !important; /* Override the default height on mobile */
+  }
 }
 
 .avatar-container {
